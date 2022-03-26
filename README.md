@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi :)
 
 <!--
 **4cos4m/4cos4m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
